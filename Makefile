@@ -2,8 +2,8 @@ IDIR =include
 CC=g++
 CFLAGS=-I$(IDIR)
 
-ODIR=/obj
-LDIR =/lib
+ODIR=obj
+LDIR =lib
 
 _DEPS = PDE.h
 DEPS = $(patsubst %,$(IDIR)/%,$(_DEPS))
