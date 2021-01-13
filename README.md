@@ -1,7 +1,8 @@
 # PDE
 Developed by Moeid Heidari and Omar Mohammed  
-Non homogeneous Heat conduction equation implementation in c++
+Non homogeneous Heat conduction equation implementation in c++.
 
+<img src="https://ibb.co/MgmCsqf" />
 ## Installation
 
 Use the Makefile to make the source code
