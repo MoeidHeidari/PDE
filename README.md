@@ -48,7 +48,7 @@ Where, <br /><br />
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/MB9dJDT/mathpix-2021-01-13-20-12-09.png" alt="mathpix-2021-01-13-20-12-09" border="0" width="500"></a>
 &nbsp;
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/1L9qKMH/1.png" alt="1" border="0" width="200"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1nc38R7/1.png" alt="1" border="0" width="200"></a>
 ## Installation
 
 Use the Makefile to make the source code
