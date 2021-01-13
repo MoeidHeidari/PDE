@@ -42,7 +42,7 @@ The final solution: <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/x3j4V6M/mathpix-2021-01-13-19-44-16.png" alt="mathpix-2021-01-13-19-44-16" border="0" width="430"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/42KsqgK/1.png" alt="1" border="0" width="200"></a> <br /><br />
 Where, <br /><br />
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/LvG74t7/mathpix-2021-01-13-20-04-26.png" alt="mathpix-2021-01-13-20-04-26" border="0" width="430"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LvG74t7/mathpix-2021-01-13-20-04-26.png" alt="mathpix-2021-01-13-20-04-26" border="0" width="350"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/2jb2KnJ/1.png" alt="1" border="0" width="200"></a>
 ## Installation
 
