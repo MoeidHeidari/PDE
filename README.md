@@ -11,6 +11,8 @@ PDE to a set of simple nonhomogeneous ODEs. <br />
 Step 3. We Solve the nonhomogeneous ODEs, use their solutions to reassemble the complete solution
 for the PDE. <br />
 
+For the current example, our eigenfunctions are Gn(x) = sin(npx), so we should try <br />
+
 ## Installation
 
 Use the Makefile to make the source code
