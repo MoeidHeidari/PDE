@@ -2,9 +2,9 @@
 Developed by Moeid Heidari and Omar Mohammed  
 Non homogeneous Heat conduction equation implementation in c++.
 
-<a href="https://ibb.co/4dkcT2s"><img src="https://i.ibb.co/YZg6kXD/eq1.png" alt="eq1" border="0"></a>
+<a href="https://ibb.co/6BTfyS2"><img src="https://i.ibb.co/jRQ18Yd/imgonline-com-ua-impr-Scanned-Text-2y-MBx3r-N8sj.png" alt="imgonline-com-ua-impr-Scanned-Text-2y-MBx3r-N8sj" border="0"></a>
 
-Strategy:
+Strategy: <br />
 Step 1. Obtain the eigenfunctions in x, Gn(x), that satisfy the PDE and boundary conditions (I) and (II) <br />
 Step 2. Expand u(x,t), f(x,t), and P(x) in series of Gn(x). This will convert the nonhomogeneous 
 PDE to a set of simple nonhomogeneous ODEs. <br />
