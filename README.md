@@ -13,6 +13,8 @@ for the PDE. <br /> <br />
 
 For the current example, our eigenfunctions are Gn(x) = sin(n<span style='color:black'>&pi;</span>x), so we should try <br />
 
+<a href="https://ibb.co/1bbTS6Z"><img src="https://i.ibb.co/JCCHhQn/eq2-3-4.png" alt="eq2-3-4" border="0"></a>
+
 ## Installation
 
 Use the Makefile to make the source code
