@@ -1,6 +1,6 @@
 # PDE
-Developed by Moeid Heidari and Omar Mohammed
-Heat conduction equation implementation in c++
+Developed by Moeid Heidari and Omar Mohammed  
+Non homogeneous Heat conduction equation implementation in c++
 
 ## Installation
 
