@@ -26,7 +26,7 @@ Plugging Eq. (2) into the original PDE, we have
 <a href="https://ibb.co/S05vfMK"><img src="https://i.ibb.co/sQb3WNF/mathpix-2021-01-13-18-31-06.png" alt="mathpix-2021-01-13-18-31-06" border="0" width="450"></a><br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/TkZ87cv/mathpix-2021-01-13-18-32-21.png" alt="mathpix-2021-01-13-18-32-21" border="0" width="350"></a> <br /><br />
 or, <br /><br />
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/8mvnfsP/mathpix-2021-01-13-18-42-05.png" alt="mathpix-2021-01-13-18-42-05" border="0" width="430" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8mvnfsP/mathpix-2021-01-13-18-42-05.png" alt="mathpix-2021-01-13-18-42-05" border="0" width="430" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dt8BH36/1.png" alt="1" border="0" width="190"></a> <br /><br />
 Equation (5) has the standard solution,
 <br /><br />
@@ -38,7 +38,7 @@ is evaluated to obtain un(t) ; u(x,t) can be evaluated by Eq. (2) once un(t) is 
 
 Thus, the expansion in Eq. (2) is reduced to just two terms, <br /><br />
 The final solution: <br />
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/x3j4V6M/mathpix-2021-01-13-19-44-16.png" alt="mathpix-2021-01-13-19-44-16" border="0" width="430"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/x3j4V6M/mathpix-2021-01-13-19-44-16.png" alt="mathpix-2021-01-13-19-44-16" border="0" width="430"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/42KsqgK/1.png" alt="1" border="0" width="200"></a> <br /><br />
 Where, <br /><br />
 ## Installation
