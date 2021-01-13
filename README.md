@@ -2,7 +2,8 @@
 Developed by Moeid Heidari and Omar Mohammed  
 Non homogeneous Heat conduction equation implementation in c++.
 
-<img src="https://ibb.co/MgmCsqf" />
+<a href="https://ibb.co/MgmCsqf"><img src="https://i.ibb.co/kGtSxYJ/eq1.jpg" alt="eq1" border="0"></a>
+
 ## Installation
 
 Use the Makefile to make the source code
