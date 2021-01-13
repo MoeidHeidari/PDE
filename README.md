@@ -1,4 +1,4 @@
-# PDE
+# Nonhomogeneous PDE - Heat equation
 Developed by Moeid Heidari and Omar Mohammed  
 Non homogeneous Heat conduction equation implementation in c++.
 
