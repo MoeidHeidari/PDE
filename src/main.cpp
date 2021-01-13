@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
   */
    _PDE::PDE_boundry x_boundry;
    _PDE::PDE_boundry t_boundry;
-  /*@brief here the initialization of the X and T boudries happen
+  /* @brief here the initialization of the X and T boudries happen
   through the command line input
   first argument: x_right
   second argument: x_left
