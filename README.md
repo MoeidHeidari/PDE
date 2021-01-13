@@ -8,7 +8,7 @@ Non homogeneous Heat conduction equation implementation in c++.
 Step 1. Obtain the eigenfunctions in x, Gn(x), that satisfy the PDE and boundary conditions (I) and (II) <br />
 Step 2. Expand u(x,t), f(x,t), and P(x) in series of Gn(x). This will convert the nonhomogeneous 
 PDE to a set of simple nonhomogeneous ODEs. <br />
-Step 3. We Solve the nonhomogeneous ODEs, use their solutions to reassemble the complete solution
+Step 3. We Solve the nonhomogeneous ODEs, use their solutions to reassemble the complete solution. <br />
 for the PDE. <br />
 
 For the current example, our eigenfunctions are Gn(x) = sin(npx), so we should try <br />
