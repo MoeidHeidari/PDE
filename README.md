@@ -11,9 +11,9 @@ PDE to a set of simple nonhomogeneous ODEs. <br />
 Step 3. We Solve the nonhomogeneous ODEs, use their solutions to reassemble the complete solution.
 for the PDE. <br /> <br />
 
-For the current example, our eigenfunctions are Gn(x) = sin(n<span style='color:black'>&pi;</span>x), so we should try <br />
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/KbSS600/eq-2-3-4p.png" alt="eq-2-3-4p" border="0" width="400" height="170"></a>
-<a href="https://ibb.co/3p6Pwhk"><img src="https://i.ibb.co/F5Zd97n/eq-2-3-4p1.png" alt="eq-2-3-4p1" border="0" width="400" height="170"></a>
+For the current example, our eigenfunctions are Gn(x) = sin(n<span style='color:black'>&pi;</span>x), so we should try <br /> <br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/KbSS600/eq-2-3-4p.png" alt="eq-2-3-4p" border="0" width="420" height="175"></a>
+<a href="https://ibb.co/3p6Pwhk"><img src="https://i.ibb.co/F5Zd97n/eq-2-3-4p1.png" alt="eq-2-3-4p1" border="0" width="420" height="175"></a>
 ## Installation
 
 Use the Makefile to make the source code
