@@ -40,7 +40,7 @@ SOFTWARE.
  *  PDE_PI is an alternative for PI value (M_PI)
  */
 #ifndef PDE_PI
-#define PDE_PI 3.1415926535897932384626433832795
+#define PDE_PI 3.1415926535897932384626433832795 // PI value
 #endif
 //==============================================================================
 /*! \def
@@ -76,9 +76,9 @@ PDE_Solver()
     /*
     @brief constructure of the class to initialize the class properties_destroyed
     @param one : the initial value for x
-    @paran two: the initial value for T
-    @paran three: definition of the boundries of the given x values
-    @paran four: definition of the boundries of the given T values
+    @param two: the initial value for T
+    @param three: definition of the boundries of the given x values
+    @param four: definition of the boundries of the given T values
     */
 PDE_Solver(std::vector<double> pde_x,double pde_t,
         PDE_boundry pde_x_boundry, PDE_boundry pde_t_boundry)
