@@ -2,7 +2,7 @@
 Developed by Moeid Heidari and Omar Mohammed  
 Non homogeneous Heat conduction equation implementation in C++.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/9ZHd4x7/eq1p.png" alt="eq1p" border="0" width="320" height="135"></a>&#9;&#9;&#9;&#9;
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9ZHd4x7/eq1p.png" alt="eq1p" border="0" width="320" height="135"></a>&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/G3M7z6G/1.png" alt="1" border="0" width="110" height="140"></a>
 <h3><b>Strategy:</b> </h3>
 Step 1. We first obtain the eigenfunctions in x, Gn(x), that satisfy the PDE and boundary conditions (I) and (II) <br />
