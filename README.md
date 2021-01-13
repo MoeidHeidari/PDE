@@ -22,9 +22,9 @@ un(0) (the initial condition of un(t)) and qn(t) (the forcing that acts on un(t)
 Plugging Eq. (2) into the original PDE, we have
 
 <a href="https://ibb.co/mD3vQ0Z"><img src="https://i.ibb.co/JB9xXq6/mathpix-2021-01-13-18-07-19.png" alt="mathpix-2021-01-13-18-07-19" border="0"></a><br /><br />
-<a href="https://ibb.co/5jT0GGW"><img src="https://i.ibb.co/FY6rmmb/mathpix-2021-01-13-18-14-14.png" alt="mathpix-2021-01-13-18-14-14" border="0" width="550"></a><br /><br />
-<a href="https://ibb.co/S05vfMK"><img src="https://i.ibb.co/sQb3WNF/mathpix-2021-01-13-18-31-06.png" alt="mathpix-2021-01-13-18-31-06" border="0" width="550"></a><br />
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/TkZ87cv/mathpix-2021-01-13-18-32-21.png" alt="mathpix-2021-01-13-18-32-21" border="0" width="380"></a>
+<a href="https://ibb.co/5jT0GGW"><img src="https://i.ibb.co/FY6rmmb/mathpix-2021-01-13-18-14-14.png" alt="mathpix-2021-01-13-18-14-14" border="0" width="750"></a><br /><br />
+<a href="https://ibb.co/S05vfMK"><img src="https://i.ibb.co/sQb3WNF/mathpix-2021-01-13-18-31-06.png" alt="mathpix-2021-01-13-18-31-06" border="0" width="450"></a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TkZ87cv/mathpix-2021-01-13-18-32-21.png" alt="mathpix-2021-01-13-18-32-21" border="0" width="350"></a>
 ## Installation
 
 Use the Makefile to make the source code
