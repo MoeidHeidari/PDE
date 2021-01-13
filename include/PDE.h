@@ -1,30 +1,77 @@
+/*
+The MIT License (MIT)
+
+Copyright (c) 2021 Moeidheidari(Skheydari@stud.etu.ru) and Omar Mohammed(Omokhammed@stud.etu.ru)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+*/
 #ifndef PDE
 #define PDE
+/*! \class PDE_Solverclass PDE.h PDE.h
+ *
+ *  This object takes the responsibility to solve the Nonhomogeneous PDE - Heat equation problem
+ */
+
+ /************************************************
+ *  here is the list of all libraries has been used in PDE
+ ***********************************************/
 #include <vector>
 #include <iostream>
 #include <cmath>
+//==============================================================================
+/*! \def
+ *
+ *  PDE_PI is an alternative for PI value (M_PI)
+ */
 #ifndef PDE_PI
 #define PDE_PI 3.1415926535897932384626433832795
 #endif
-
+//==============================================================================
+/*! \def
+ *
+ *  PDE_EXPO is an alternative for Exponential value
+ */
 #ifndef PDE_EXPO
 #define PDE_EXPO 2.71828
 #endif
-
+//==============================================================================
+/*! \namespace _PDE
+ *
+ *  This is the general namespace of current project which holds all the macros,classes,structs,... etc.
+ */
 namespace _PDE
 {
+  /*! \struct PDE_boundry
+   *
+   *  this structure 
+   */
   struct PDE_boundry
   {
     double left;
     double right;
   };
-/*Constant values used in PDE*/
+
 class PDE_Solver
 {
   public:
 PDE_Solver()
 {
-
 }
     /*
     @brief constructure of the class to initialize the class properties_destroyed
@@ -80,11 +127,10 @@ double integral(double(*f)(double x_val), double(*g)(double x_val), double a, do
     double step = (b - a)/n;   // width of rectangle
     double area = 0.0;
     double y = 0;  // height of rectangle
-
     for(int i = 0; i < n; ++i)
     {
 
-        y = f(a + (i + 0.5) * step) * g((a + (i + 0.5) * step)*M_PI*n);
+        y = f(a + (i + 0.5) * step) * g((a + (i + 0.5) * step)*PDE_PI*n);
 
         area += y * step;  // find the area of the rectangle and add it to the previous area. Effectively summing up the area under the curve.
 

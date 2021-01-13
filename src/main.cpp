@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
   t_boundry.left=0;
   std::vector<double> x_values;
   unsigned t_value=1;
-  for(double i=0.01;;i+=0.01)
+  for(double i=0.001;;i+=0.001)
   {
     if(i<=x_boundry.left || i>=x_boundry.right)
     break;
@@ -35,8 +35,8 @@ int main(int argc, char *argv[])
   for (auto &x : pde.get_X_value()) // access by reference to avoid copying
 {
 
-  double tmp=pde.u_n_t(t_value,2,x) * std::sin(PDE_PI*2*x)+pde.u_n_t(t_value,2,x) * std::sin(PDE_PI*2*x);
-  std::cout<<tmp<<std::endl;
+  double tmp=pde.u_n_t(t_value,2,x) * std::sin(PDE_PI*2*x)+pde.u_n_t(t_value,3,x) * std::sin(PDE_PI*2*x);
+  std::cout<<x<<":->>>>"<<tmp<<std::endl;
 
   //final result for current x is:
 }
