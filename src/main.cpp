@@ -30,7 +30,6 @@ SOFTWARE.
 #include <vector>
 #include <cmath>
 #include <cstdlib>
-
 int main(int argc, char *argv[])
 {
   /*instantiation of X and T boundry structs
