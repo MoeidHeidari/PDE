@@ -27,7 +27,7 @@ Plugging Eq. (2) into the original PDE, we have
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/TkZ87cv/mathpix-2021-01-13-18-32-21.png" alt="mathpix-2021-01-13-18-32-21" border="0" width="350"></a> <br /><br />
 or, <br /><br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/8mvnfsP/mathpix-2021-01-13-18-42-05.png" alt="mathpix-2021-01-13-18-42-05" border="0"  width="500"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/vZ8sKYW/1.png" alt="1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vZ8sKYW/1.png" alt="1" border="0" width="200"></a>
 ## Installation
 
 Use the Makefile to make the source code
