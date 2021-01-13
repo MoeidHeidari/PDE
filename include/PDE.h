@@ -59,8 +59,9 @@ namespace _PDE
 {
   /*! \struct PDE_boundry
    *
-   *  this structure 
+   *  this structure
    */
+   
   struct PDE_boundry
   {
     double left;
