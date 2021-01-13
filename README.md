@@ -14,6 +14,11 @@ for the PDE. <br /> <br />
 For the current example, our eigenfunctions are Gn(x) = sin(n<span style='color:black'>&pi;</span>x), so we should try <br /> <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/KbSS600/eq-2-3-4p.png" alt="eq-2-3-4p" border="0" width="420" height="175"></a>
 <a href="https://ibb.co/3p6Pwhk"><img src="https://i.ibb.co/F5Zd97n/eq-2-3-4p1.png" alt="eq-2-3-4p1" border="0" width="420" height="175"></a>
+
+<br /><br />
+From Eqs. (3) and (4), qn(t) and un(0) have already been determined. Our task is to solve un(t) and express it in
+un(0) (the initial condition of un(t)) and qn(t) (the forcing that acts on un(t)). <br /><br />
+Plugging Eq. (2) into the original PDE, we have
 ## Installation
 
 Use the Makefile to make the source code
