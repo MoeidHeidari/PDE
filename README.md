@@ -12,49 +12,7 @@ Step 3. We Solve the nonhomogeneous ODEs, use their solutions to reassemble the 
 for the PDE. <br /> <br />
 
 For the current example, our eigenfunctions are Gn(x) = sin(n<span style='color:black'>&pi;</span>x), so we should try <br />
-
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mrow>
-    <mi mathvariant="normal">u</mi>
-  </mrow>
-  <mo stretchy="false">(</mo>
-  <mrow>
-    <mi mathvariant="normal">x</mi>
-  </mrow>
-  <mo>,</mo>
-  <mrow>
-    <mi mathvariant="normal">t</mi>
-  </mrow>
-  <mo stretchy="false">)</mo>
-  <mo>=</mo>
-  <munderover>
-    <mo data-mjx-texclass="OP">∑</mo>
-    <mrow>
-      <mi>n</mi>
-      <mo>=</mo>
-      <mn>1</mn>
-    </mrow>
-    <mrow>
-      <mi mathvariant="normal">∞</mi>
-    </mrow>
-  </munderover>
-  <msub>
-    <mi>u</mi>
-    <mrow>
-      <mi>n</mi>
-    </mrow>
-  </msub>
-  <mo stretchy="false">(</mo>
-  <mi>t</mi>
-  <mo stretchy="false">)</mo>
-  <mi>sin</mi>
-  <mo data-mjx-texclass="NONE">⁡</mo>
-  <mo stretchy="false">(</mo>
-  <mi>n</mi>
-  <mi>π</mi>
-  <mi>x</mi>
-  <mo stretchy="false">)</mo>
-</math>
+<img src="https://cdn.mathpix.com/snip/images/FQqzPHP9Fc_5VfKfczxRDS9BEoBnkJWi7c7d_5mPIbw.original.fullsize.png"> <br />
 ## Installation
 
 Use the Makefile to make the source code
