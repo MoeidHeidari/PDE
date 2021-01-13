@@ -12,7 +12,7 @@ Step 3. We Solve the nonhomogeneous ODEs, use their solutions to reassemble the 
 for the PDE. <br /> <br />
 
 For the current example, our eigenfunctions are Gn(x) = sin(n<span style='color:black'>&pi;</span>x), so we should try <br />
-<a href="https://ibb.co/TB999NC"><img src="https://i.ibb.co/27GGGpb/eq-2-3-4.png" alt="eq-2-3-4" border="0" width="500" height="150"></a>
+<a href="https://ibb.co/TB999NC"><img src="https://i.ibb.co/27GGGpb/eq-2-3-4.png" alt="eq-2-3-4" border="0" width="800" height="170"></a>
 ## Installation
 
 Use the Makefile to make the source code
