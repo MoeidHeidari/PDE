@@ -39,7 +39,7 @@ is evaluated to obtain un(t) ; u(x,t) can be evaluated by Eq. (2) once un(t) is 
 Thus, the expansion in Eq. (2) is reduced to just two terms, <br /><br />
 The final solution: <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/x3j4V6M/mathpix-2021-01-13-19-44-16.png" alt="mathpix-2021-01-13-19-44-16" border="0" width="450"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/YRRQCL6/1.png" alt="1" border="0" width="170"></a> <br /><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YRRQCL6/1.png" alt="1" border="0" width="150"></a> <br /><br />
 Where, <br /><br />
 ## Installation
 
