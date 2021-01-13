@@ -5,11 +5,11 @@ Non homogeneous Heat conduction equation implementation in c++.
 <a href="https://ibb.co/4dkcT2s"><img src="https://i.ibb.co/YZg6kXD/eq1.png" alt="eq1" border="0"></a>
 
 Strategy:
-Step 1. Obtain the eigenfunctions in x, Gn(x), that satisfy the PDE and boundary conditions (I) and (II)
-Step 2. Expand u(x,t), f(x,t), and P(x) in series of Gn(x). This will convert the nonhomogeneous
-PDE to a set of simple nonhomogeneous ODEs.
+Step 1. Obtain the eigenfunctions in x, Gn(x), that satisfy the PDE and boundary conditions (I) and (II) </br>
+Step 2. Expand u(x,t), f(x,t), and P(x) in series of Gn(x). This will convert the nonhomogeneous 
+PDE to a set of simple nonhomogeneous ODEs. </br>
 Step 3. We Solve the nonhomogeneous ODEs, use their solutions to reassemble the complete solution
-for the PDE
+for the PDE. </br>
 
 ## Installation
 
