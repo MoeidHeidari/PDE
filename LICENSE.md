@@ -1,7 +1,7 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2021 Moeidheidari
+Copyright (c) 2021 Moeidheidari(Skheydari@stud.etu.ru) and Omar Mohammed(Omokhammed@stud.etu.ru)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
