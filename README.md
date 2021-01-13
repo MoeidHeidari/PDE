@@ -46,7 +46,7 @@ Where, <br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/2jb2KnJ/1.png" alt="1" border="0" width="200"></a><br />
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/MB9dJDT/mathpix-2021-01-13-20-12-09.png" alt="mathpix-2021-01-13-20-12-09" border="0"width="350"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/MB9dJDT/mathpix-2021-01-13-20-12-09.png" alt="mathpix-2021-01-13-20-12-09" border="0" width="350"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/1L9qKMH/1.png" alt="1" border="0" width="200"></a>
 ## Installation
