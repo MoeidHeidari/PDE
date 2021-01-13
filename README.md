@@ -30,7 +30,7 @@ or, <br /><br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dt8BH36/1.png" alt="1" border="0" width="190"></a> <br /><br />
 Equation (5) has the standard solution,
 <br /><br />
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Nr68n0q/mathpix-2021-01-13-19-31-20.png" alt="mathpix-2021-01-13-19-31-20" border="0" width="600"></a>
 ## Installation
 
 Use the Makefile to make the source code
