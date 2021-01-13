@@ -21,9 +21,9 @@ From Eqs. (3) and (4), qn(t) and un(0) have already been determined. Our task is
 un(0) (the initial condition of un(t)) and qn(t) (the forcing that acts on un(t)). <br /><br />
 Plugging Eq. (2) into the original PDE, we have
 
-<a href="https://ibb.co/mD3vQ0Z"><img src="https://i.ibb.co/JB9xXq6/mathpix-2021-01-13-18-07-19.png" alt="mathpix-2021-01-13-18-07-19" border="0"></a><br /><br />
-<a href="https://ibb.co/5jT0GGW"><img src="https://i.ibb.co/FY6rmmb/mathpix-2021-01-13-18-14-14.png" alt="mathpix-2021-01-13-18-14-14" border="0" ></a><br /><br />
-<a href="https://ibb.co/kc6RwrV"><img src="https://i.ibb.co/XJkhKdf/mathpix-2021-01-13-18-16-24.png" alt="mathpix-2021-01-13-18-16-24" border="0"></a> <br />
+<a href="https://ibb.co/mD3vQ0Z"><img src="https://i.ibb.co/JB9xXq6/mathpix-2021-01-13-18-07-19.png" alt="mathpix-2021-01-13-18-07-19" border="0"></a><br /><br /><br />
+<a href="https://ibb.co/5jT0GGW"><img src="https://i.ibb.co/FY6rmmb/mathpix-2021-01-13-18-14-14.png" alt="mathpix-2021-01-13-18-14-14" border="0" ></a><br /><br /><br />
+<a href="https://ibb.co/kc6RwrV"><img src="https://i.ibb.co/XJkhKdf/mathpix-2021-01-13-18-16-24.png" alt="mathpix-2021-01-13-18-16-24" border="0" width="360" height="190"></a> <br />
 ## Installation
 
 Use the Makefile to make the source code
